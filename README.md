@@ -1,8 +1,8 @@
 # javascript-file-encrypter
-JavaScript File Encryption App
-Source code - here: https://tutorialzine.com/2013/11/javascript-file-encrypter
-Demo - here: https://demo.tutorialzine.com/2013/11/javascript-file-encrypter/
-Download original - here: https://demo.tutorialzine.com/2013/11/javascript-file-encrypter/javascript-file-encrypter.zip
+JavaScript File Encryption App:
+- Source code - here: https://tutorialzine.com/2013/11/javascript-file-encrypter
+- Demo - here: https://demo.tutorialzine.com/2013/11/javascript-file-encrypter/
+- Download original - here: https://demo.tutorialzine.com/2013/11/javascript-file-encrypter/javascript-file-encrypter.zip
 
 Changes:
 - Updete JQuery.
